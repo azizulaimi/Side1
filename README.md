@@ -1,2 +1,3 @@
 # Side1
-Test repository
+
+Hello everyone! Let's all learn and work together.
